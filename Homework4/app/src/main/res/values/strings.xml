@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Homework 4</string>
+    <string name="forgot_password"><a href="http://www.google.com">Forgot Password?</a></string>
+    <string name="last_name">Last name*</string>
+    <string name="email_address">Email address*</string>
+    <string name="password">Password*</string>
+    <string name="create_account">Create Account</string>
+    <string name="first_name">First name*</string>
+    <string name="required_field">* required field</string>
+    <string name="sign_in_to_your_account">Sign in to your account</string>
+    <string name="email_address_required">Email Address (required)</string>
+    <string name="password_required">Password (required)</string>
+    <string name="sign_in">Sign In</string>
+    <string name="don_t_have_account">Don\'t have account?</string>
+    <string name="create_a_new_account">Create a new account</string>
+    <string name="food">Food</string>
+    <string name="beauty">Beauty</string>
+    <string name="clothings">Clothings</string>
+    <string name="electronics">Electronics</string>
+    <string name="create_your_account">Create your account</string>
+</resources>
